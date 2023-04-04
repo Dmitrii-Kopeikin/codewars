@@ -1,3 +1,5 @@
+https://www.codewars.com/kata/5a86073fb17101e453000258
+
 Emotional Sort ( ︶︿︶)
 You'll have a function called "sortEmotions" that will return an array of emotions sorted. It has two parameters, the first parameter called "arr" will expect an array of emotions where an emotion will be one of the following:
 
